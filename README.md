@@ -5,6 +5,6 @@
  - 👨‍💼 Having interned at Abbott and Kyons with software engineering role in the past 
  - 💼 Having published a computer science paper in a peer-reviewed journal 
 
- 🕒 My current time is 11:50 PM (updated via API) 
+ 🕒 My current time is 11:51 PM (updated via API) 
 
  📫 How to reach me: lavanhoa41@gmail.com
