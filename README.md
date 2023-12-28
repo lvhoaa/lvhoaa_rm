@@ -1,22 +1,8 @@
-### Hi there, I'm Hoa La 👋
+### Hi there, I'm Hoa La 👋 
 
-<!--
-**lvhoaa/lvhoaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👨‍💻 3 key facts about me: 
+ - 🌱 I’m studying CS @ UMass Amherst 
+ - 👨‍💼 Having interned at Abbott and Kyons with software engineering role in the past 
+ - 💼 Having published a computer science paper in a peer-reviewed journal 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👨‍💻 3 key facts about me: 
-- 🌱 I’m studying CS @ UMass Amherst
-- 👨‍💼 Having interned at Abbott and Kyons with software engineering role in the past
-- 💼 Having published a computer science paper in a peer-reviewed journal
-
-📫 How to reach me: lavanhoa41@gmail.com
+ 📫 How to reach me: lavanhoa41@gmail.com
